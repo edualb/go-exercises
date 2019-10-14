@@ -1,0 +1,1 @@
+This exercise show me that `strings.Join(os.Args[1:], " ")` is more effective and efficient than loop when we are working with a lot of data.
