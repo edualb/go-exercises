@@ -1,0 +1,1 @@
+Run `go run main.go ./Text/dupText.txt ./Text/dupText1.txt ./Text/dupText2.txt ./Text/dupText3.txt ./Text/dupText4.txt ./Text/dupText5.txt`
