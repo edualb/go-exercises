@@ -1,0 +1,11 @@
+0.31s     5549  https://www.amazon.com.br/
+0.32s     5549  https://www.amazon.com.br/
+0.32s     5549  https://www.amazon.com.br/
+0.58s     5549  https://www.amazon.com.br/
+0.58s     5549  https://www.amazon.com.br/
+0.72s   464061  https://www.amazon.com.br/
+0.73s   458813  https://www.amazon.com.br/
+0.74s   466825  https://www.amazon.com.br/
+0.98s   460429  https://www.amazon.com.br/
+0.99s   460207  https://www.amazon.com.br/
+1.29s   463402  https://www.amazon.com.br/
